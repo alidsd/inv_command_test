@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c08e50d7-d05c-4f2a-a301-c1e3647398a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1vlNqenwL3dGuOWVrBbBJhJFVDd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="inv_test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.dsd.Main" />
+      <module name="inv_command_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c08e50d7-d05c-4f2a-a301-c1e3647398a9" name="Default Changelist" comment="" />
+      <created>1627132907427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627132907427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627133078340">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1627133078340" />
+    <state x="449" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1627133076443">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="449" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.860@0.0.1440.860" timestamp="1627133076443" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1627133091317">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1627133091317" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1627133091317">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1627133091317" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1627133091316">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1627133091316" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1627133091317">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1627133091317" />
+    <state x="571" y="311" key="com.intellij.ide.util.TipDialog" timestamp="1634847805093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="428" y="257" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1627132910562" />
+    <state x="571" y="311" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634847805093" />
+  </component>
+</project>
